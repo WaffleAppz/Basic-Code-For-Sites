@@ -1,2 +1,3 @@
 # SnapHap
-A code for glitch.com users
+<hr>
+Where the world starts of code.
